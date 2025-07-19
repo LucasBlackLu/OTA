@@ -1,0 +1,2 @@
+Fix double tap to wake
+dont use aosp color mode

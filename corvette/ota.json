@@ -1,10 +1,10 @@
 {
     "version": "varuna",
-    "date": "1752874860000",
+    "date": "1752947460000",
     "requiredDate": "0",
-    "url": "https://sourceforge.net/projects/black-lu-rom/files/Sun/corvette/Sun-varuna-20250719-corvette-Unofficial.zip/download",
-    "id": "ea660aee24d89c04b4aeebf87c92107f4a407e76",
-    "filename": "Sun-varuna-20250719-corvette-Unofficial.zip",
-    "filesize": "2997660545",
-    "md5": "4aad440931ee1067764b1a6925b7a145"
+    "url": "https://sourceforge.net/projects/sunos-project/files/corvette/Sun-varuna-20250720-corvette-Unofficial.zip/download",
+    "id": "1ed2c5f91c1cff4ca2d671a042c129a73ddf29b8",
+    "filename": "Sun-varuna-20250720-corvette-Unofficial.zip",
+    "filesize": "2997659275",
+    "md5": "497b0f9114277bb1413d6f49cea29dfd"
 }

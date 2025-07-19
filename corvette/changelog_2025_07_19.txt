@@ -1,2 +1,0 @@
-Intitial OTA
-Fix double tap to wake

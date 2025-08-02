@@ -1,2 +1,1 @@
-Fix vibration 
-Switch to AOSP color mode
+2025 Jul Security Patch

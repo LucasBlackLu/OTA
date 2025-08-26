@@ -1,1 +1,2 @@
-2025 Jul Security Patch
+2025 Aug Security Patch
+Update vendor source to 840
